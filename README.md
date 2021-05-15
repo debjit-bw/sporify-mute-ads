@@ -1,6 +1,6 @@
 # Mute those ads
 
-Whenever Spotify tries to play an ad, this mutes the system volume
+Whenever Spotify tries to play an ad, this mutes the system volume.
 
 ---
 
@@ -18,6 +18,9 @@ Normal g++ would do, but to link dlls statically,
 I created a shortcut in my start menu with a cute icon, so you can do that, just fyi.
 
 ---
+
+## Apology
+A duplicate .exe is present in the main folder outside release as it is linked to a start menu shortcut and I don't wanna redo it, so bear with it.
 
 ### Warning: 
 Works only in Windows as it uses native system calls to determine which apps are running
